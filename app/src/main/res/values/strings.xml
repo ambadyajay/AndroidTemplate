@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AndroidTemplate</string>
+    <string name="email_label">Email Address</string>
+    <string name="password_label">Password</string>
+    <string name="signin_label">Sign In</string>
+</resources>
